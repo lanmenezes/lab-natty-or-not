@@ -2,6 +2,7 @@
 # Título do Projeto: A inteligência artificial e a importância do prompt;)
 
 ## 📒 Descrição
+Criação de um vídeo usando texto, áudio e vídeo gerados por inteligência artificial.
 
 
 ## 🤖 Tecnologias Utilizadas
