@@ -20,7 +20,7 @@ Foi bastante simples fazer a geração completa, me surpreenderam a facilidade d
 ### Exemplos e Insigths
 
 
-- [Vídeo (Avatar Virtual)](<a href="video/Ai_Prompts.mp4" target="_blank">Assista ao vídeo</a>)
+- [Vídeo (Avatar Virtual)](<a href="https://1drv.ms/f/s!Aqf5adzna_Cbgd4hqNLd9EgYBJ7BfA?e=nnzncm" target="_blank">Assista ao vídeo</a>)
 
 ## Links Interessantes
 
