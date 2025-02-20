@@ -1,48 +1,26 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto: A inteligência artificial e a importância do prompt;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGpt, text ro speech e geração de vídeo.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Usando ChatGpt, gerei um texto sobre a revolução da inteligência artificial e a importância dos prompts. Depois, usando elevenLabs, gerei um audio a partir desse texto e por fim, usando D-ID adicionei um avatar criando um vídeo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado foi um vídeo de 3 minutos, inserida numa apresentação da empresa para demontrar o potencial das Ias generativas.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Foi bastante simples fazer a geração completa, me surpreenderam a facilidade de utilizar as tecnologias nos sites listados e o resultado.
 ```
 
 ### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+
+- [Vídeo (Avatar Virtual)](<a href="video/Ai_Prompts.mp4" target="_blank">Assista ao vídeo</a>)
 
 ## Links Interessantes
 
